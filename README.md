@@ -13,9 +13,9 @@ A tiny social mobile app built with **Expo** and **React Native** (TypeScript). 
 - Simple in-memory caching for user profiles to avoid repeat requests
 
 ## Screenshots
-Add screenshots here (from your device):
-- `screenshots/home.png`
-- `screenshots/post-details.png`
+<img width="271" height="548" alt="image" src="https://github.com/user-attachments/assets/b510166d-65bb-4396-9b8d-e64ea10d8a9e" />`
+<img width="283" height="540" alt="image" src="https://github.com/user-attachments/assets/25720679-c0d0-4a37-95d7-4af7c04fde6e" />
+
 
 ## Getting Started
 
@@ -42,11 +42,6 @@ npm run android
 npm run ios
 ```
 
-### VS Code Quick Start
-1. Open VS Code
-2. **File → Open Folder…** and choose this project folder
-3. Open a terminal in VS Code (**Terminal → New Terminal**)
-4. Run `npm install`, then `npx expo start`
 
 ### Notes about the API
 - Posts and comments come from the free GoREST public API.
@@ -73,14 +68,10 @@ npm run ios
 │   │   └── PostDetailsScreen.tsx
 │   └── services
 │       └── api.ts
-├── screenshots
-│   ├── home.png (add)
-│   └── post-details.png (add)
-└── assets (empty, reserved for future)
+├─
 ```
 
 ## How many hours?
-~3-4 hours including polish and README, not counting screenshots.
+~2.5 - 3 hours including polish and README
 
-## License
-MIT
+
